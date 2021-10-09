@@ -1,0 +1,22 @@
+<button bindtap="onclick" class="begin" hidden="{{bg}}"  >
+<view class="bgtxt">投骰子</view>
+</button>
+<button bindtap="outclick" class="end" hidden="{{next}}" >
+  <view class="endtxt">{{nextone}}</view>
+  </button>
+  <button class="reward">{{reward}}</button>
+  <view bindtap="ret" class="return"  >
+  <view class="retxt">返回</view>
+  </view>
+
+  <image class="dice0" style="width: 25vw;" style="height: 35vh;" src="{{imgs}}"></image>
+<image class="dice1" mode="widthFix" src="{{img1}}"></image>
+<image class="dice2" mode="widthFix" src="{{img2}}"></image>
+<image class="dice3" mode="widthFix" src="{{img3}}"></image>
+<image class="dice4" mode="widthFix" src="{{img4}}"></image>
+<image class="dice5" mode="widthFix" src="{{img5}}"></image>
+<image class="dice6" mode="widthFix" src="{{img6}}"></image>
+<view class="player1">玩家1:{{player1}}</view>
+  <view class="player2">玩家2:{{player2}}</view>
+  <view class="player3">玩家3:{{player3}}</view>
+  <view class="player4">玩家4:{{player4}}</view>

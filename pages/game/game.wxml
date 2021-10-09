@@ -1,0 +1,13 @@
+<!--pages/game/game.wxml-->
+<button bindtap="onclick" class="begin"  >
+<view class="bgtxt">单人模式</view>
+</button>
+<button bindtap="onclick2" class="begin2">
+四人模式
+</button>
+<button class="bgm" bindtap="bgm" > 背景音乐:{{bgmswitch}}
+  </button>
+<view bindtap="toprize" class="toprize">奖品总览
+</view>
+<view bindtap="torule" class="torule">游戏规则
+</view>

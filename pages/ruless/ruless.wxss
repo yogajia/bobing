@@ -1,0 +1,10 @@
+/* pages/ruless/ruless.wxss */
+page{
+  background-image: url('http://m.qpic.cn/psc?/V50nLnJk06qpqV0FWP5115bWLR2ysjAZ/45NBuzDIW489QBoVep5mceTTKbUGfFk.OsP2429PA3pLx7B5.3*mI*ArZ7hgeYp2rzjHZkWJwLuuhhk.kM8i.o2t6FTfmZaz2.Ekzavx2pA!/b&bo=aQKIAwAAAAADR4I!&rf=viewer_4');
+ background-size: 100% 100%;
+ background-attachment: fixed;
+ }
+.retxt
+ {
+  color: rgb(3, 3, 3);
+ }
