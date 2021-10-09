@@ -1,0 +1,75 @@
+ page{
+  background-image: url('https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbpic.588ku.com%2Fback_origin_min_pic%2F19%2F04%2F12%2F7f7c69c9942a138e51f3829999f839f2.jpg%21%2Ffw%2F750%2Fquality%2F99%2Funsharp%2Ftrue%2Fcompress%2Ftrue&refer=http%3A%2F%2Fbpic.588ku.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636117565&t=a918446cca36813127a597302ee93829');
+ background-size: 100% 100%;
+ background-attachment: fixed;
+ }
+ .bgtxt
+ {
+   color: rgb(241, 162, 16);
+ }
+ .endtxt
+ {
+   color: rgb(241, 162, 16);
+ }
+ .retxt
+ {
+  color: rgb(241, 162, 16);
+ }
+ .begin{
+   background-color: rgb(236, 238, 133);
+  width: 37vw!important;
+  transform: translateY(65vh);
+  right: 20vw;
+ }
+ .end{
+  background-color: rgb(236, 238, 133);
+  width: 37vw!important;
+  transform: translateY(65vh);
+  left: 20vw;
+ bottom: 6.25vh;
+ }
+ 
+ .button-hover
+ {
+   background-color: yellow;
+ }
+ .reward{
+   background-color: yellow;
+ }
+ .dice0{
+   position: absolute;
+   transform: translate(15vw,0vh);
+ }
+ .dice1{
+   position:relative;
+   width: 30%;
+   margin-left: 3%;
+ }
+ .dice2{
+  position:relative;
+  width: 30%;
+  margin-left: 3%;
+}
+.dice3{
+  position:relative;
+  width: 30%;
+  margin-left: 3%;
+}
+.dice4{
+  position:relative;
+  width: 30%;
+  margin-left: 3%;
+  margin-top: 5%;
+}
+.dice5{
+  position:relative;
+  width: 30%;
+  margin-left: 3%;
+  margin-top: 5%;
+}
+.dice6{
+  position:relative;
+  width: 30%;
+  margin-left: 3%;
+  margin-top: 5%;
+}

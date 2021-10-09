@@ -1,0 +1,10 @@
+/* pages/prize/prize.wxss */
+page{
+  background-image: url('http://m.qpic.cn/psc?/V50nLnJk06qpqV0FWP5115bWLR2ysjAZ/45NBuzDIW489QBoVep5mcXiLxBI7bRy6zRivpeEIM9UxaLpgDR9qCqrl6.NIbphpxArYbZwr4evQxJ2qAHe44NEvSK2VgcYo85N.OfPih7A!/b&bo=CwKKAwAAAAADR.I!&rf=viewer_4');
+ background-size: 100% 100%;
+ background-attachment: fixed;
+ }
+ .retxt
+ {
+  color: rgb(241, 162, 16);
+ }
