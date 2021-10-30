@@ -1,5 +1,0 @@
-<!--pages/prize/prize.wxml-->
-<view bindtap="ret" class="return"  >
-  <view class="retxt">返回</view>
-  </view>
-
